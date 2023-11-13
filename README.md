@@ -1,20 +1,23 @@
-# I'm Lakshman Raaj 👋🏽 🎮 🎬
+# I'm Lakshman Raaj 🎮 🎬
 
-![Banner](Banner.png)
+<div style="display: flex; justify-content: space-between;">
+  <img src="Batman.gif" style="width: 100%;">
+</div>
 
-Identity: Much like a seasoned gamer navigating intricate levels, I thrive in the realm of data science with a sharp curiosity and an analytical mindset. I consider myself a data virtuoso, delving deep into datasets to unveil insights that reveal the fascinating stories within.
+## "Sometimes It's Only Madness That Makes Us What We Are."
+**Identity**: Much like a seasoned gamer navigating intricate levels, I thrive in the realm of data science with a sharp curiosity and an analytical mindset. I consider myself a data virtuoso, delving deep into datasets to unveil insights that reveal the fascinating stories within.
 
-Journey: My interest in data science, akin to a gamer finding a new quest, was catalyzed during the COVID-19 lockdowns. With time at my disposal, I embarked on a data analysis journey, much like a skilled gamer tackling complex in-game challenges. Like a gaming detective, I meticulously sifted through data, seeking patterns and extracting hidden insights.
+**Journey**: My interest in data science, akin to a gamer finding a new quest, was catalyzed during the COVID-19 lockdowns. With time at my disposal, I embarked on a data analysis journey, much like a skilled gamer tackling complex in-game challenges. Like a gaming detective, I meticulously sifted through data, seeking patterns and extracting hidden insights.
 
-Armed with online resources and courses, I leveled up my skills in coding and modeling, feeling a sense of empowerment similar to a gamer mastering new abilities. This evolution allowed me to contribute to COVID-19 data analysis projects, extracting valuable information that mirrored a gamer uncovering secrets in a virtual world.
+Armed with online resources and courses, I leveled up my skills in coding and modeling, feeling a sense of empowerment similar to a gamer mastering new abilities. This evolution allowed me to contribute to COVID-19 data analysis and data science projects, extracting valuable information that mirrored a gamer uncovering secrets in a virtual world.
 
 As the world recovers, my journey in data science continues. With the patience of a gamer strategizing through a difficult level and the curiosity of an explorer in a game world, I persist in exploring data realms, aiming not just to unravel insights but also to positively impact our dynamic world.
 
-Passion: Beyond my academic pursuits, I am a dedicated game enthusiast. My engagement with data mirrors the strategic thinking and immersive experiences of gaming. Much like connecting threads in a captivating narrative, I bridge the gap between the world of data analysis and the structured challenges presented in the gaming universe.
+**Passion**: Beyond my academic pursuits, I am a dedicated game enthusiast. My engagement with data mirrors the strategic thinking and immersive experiences of gaming. Much like connecting threads in a captivating narrative, I bridge the gap between the world of data analysis and the structured challenges presented in the gaming universe.
 
-Vision: Data, to me, is more than mere figures; it's my ultimate power-up. Entranced by its potency, I see it as a gaming tool that unveils narratives and molds trajectories. As I refine my skills in its intricate interplay, my ambition is to wield this potential for the greater well-being, crafting stories of advancement and upholding universal equilibrium.
+**Vision**: Data, to me, is more than mere figures; it's my ultimate power-up. Entranced by its potency, I see it as a gaming tool that unveils narratives and molds trajectories. As I refine my skills in its intricate interplay, my ambition is to wield this potential for the greater well-being, crafting stories of advancement and upholding universal equilibrium.
 
-Mission: A data voyager, inherently acquainted with intricate puzzles, embraces every data challenge like a gamer tackling a tough boss battle. Driven by an unyielding resolve to confront any analytical challenge, my mission is to employ my skills and navigate each data landscape (organization) towards achieving its ultimate insight, just like a gamer conquering levels in a challenging game.
+**Mission**: A data voyager, inherently acquainted with intricate puzzles, embraces every data challenge like a gamer tackling a tough boss battle. Driven by an unyielding resolve to confront any analytical challenge, my mission is to employ my skills and navigate each data landscape (organization) towards achieving its ultimate insight, just like a gamer conquering levels in a challenging game.
 
 
 ## Find me in the Digital Universe 🌐:
