@@ -1,6 +1,7 @@
 # Hello there! I'm Lakshman Raaj 👋🏽 🎮 🎬
 
-<img src="https://t3.ftcdn.net/jpg/04/83/43/10/240_F_483431041_2YVw1RNQHnt86v9m4NTj9lxWrX2uwzwf.jpg" alt="banner with a gaming controller and movie reel, saying Lakshman Raaj - Information Systems Master, Gamer, Movie Buff">
+![Banner](Banner.png)
+
 I'm a Master's student in Information Systems who is not only passionate about crunching data but also leveling up in games and exploring the vast world of movies. My journey involves delving into the realms of databases, big data, machine learning, and, of course, epic gaming sessions and cinematic adventures. From SQL to Sekiro, I navigate diverse landscapes. Let's dive into my multifaceted world!
 
 ## Find me in the Digital Universe 🌐:
