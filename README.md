@@ -28,6 +28,13 @@ As the world recovers, my journey in data science continues. With the patience o
 - All time activity available on <a href="https://www.datascienceportfol.io/lakshmanraajs">Portfolio</a> 🚀
 
 ## Player 1 Stats 🎮:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LakshmanRaajS&theme=highcontrast)](https://git.io/streak-stats)
+
+![Lakshman's GitHub stats](https://github-readme-stats.vercel.app/api?username=LakshmanRaajS&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshmanRaajS&layout=compact&theme=dracula&langs_count=6&hide_border=true&custom_title=Top%20Languages&title_color=FF69B4)](https://github.com/anuraghazra/github-readme-stats)
+
 - **Favorite Games:** Rainbow Six Siege, The Witcher 3, Valorant, Batman Arkham Series
 - **Gaming Rig:** Intel i7 12700k, NVIDIA 3070 laptop GPU, 16GB RAM, RGB for the win!
 - **Achievements Unlocked:** Completed Dark Souls, Sekiro and Elden Ring without smashing my controller
